@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.layout.*?>
+<VBox xmlns="http://javafx.com/javafx/11.0.1"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="tech.sweethuman.fx.ControllerMainWindow">
+    <children>
+        <HBox>
+            <children>
+                <Label text="Nr. of active program states"/>
+                <TextField fx:id="numberOfProgramStates" alignment="CENTER"/>
+            </children>
+        </HBox>
+        <GridPane>
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="1.7976931348623157E308" minWidth="10.0"
+                                   prefWidth="424.0"/>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="1.7976931348623157E308" minWidth="10.0"
+                                   prefWidth="425.0"/>
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" vgrow="SOMETIMES"/>
+            </rowConstraints>
+            <children>
+                <VBox>
+                    <children>
+                        <Label text="Symbol table"/>
+                        <TableView fx:id="symbolTable">
+                            <columns>
+                                <TableColumn prefWidth="166.0" text="variable name">
+                                    <cellValueFactory>
+                                        <PropertyValueFactory property="firstColumn"/>
+                                    </cellValueFactory>
+                                </TableColumn>
+                                <TableColumn prefWidth="257.0" text="Value">
+                                    <cellValueFactory>
+                                        <PropertyValueFactory property="secondColumn"/>
+                                    </cellValueFactory>
+                                </TableColumn>
+                            </columns>
+                        </TableView>
+                    </children>
+                </VBox>
+                <VBox GridPane.columnIndex="1">
+                    <children>
+                        <Label text="Heap Table"/>
+                        <TableView fx:id="HeapTable" prefHeight="400.0" prefWidth="355.0">
+                            <columns>
+                                <TableColumn text="address">
+                                    <cellValueFactory>
+                                        <PropertyValueFactory property="firstColumn"/>
+                                    </cellValueFactory>
+                                </TableColumn>
+                                <TableColumn maxWidth="1.7976931348623157E308" prefWidth="312.0" text="Value">
+                                    <cellValueFactory>
+                                        <PropertyValueFactory property="secondColumn"/>
+                                    </cellValueFactory>
+                                </TableColumn>
+                            </columns>
+                        </TableView>
+                    </children>
+                </VBox>
+            </children>
+        </GridPane>
+        <VBox>
+            <children>
+                <Label text="Execution Stack"/>
+                <ListView fx:id="executionStack"/>
+            </children>
+        </VBox>
+        <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+            <children>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                    <children>
+                        <Label text="Output"/>
+                        <ListView fx:id="out"/>
+                    </children>
+                </VBox>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                    <children>
+                        <Label text="File Table"/>
+                        <ListView fx:id="fileTable"/>
+                    </children>
+                </VBox>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                    <children>
+                        <Label text="Running program states"/>
+                        <ListView fx:id="programStateIdentifiers"/>
+                    </children>
+                </VBox>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                    <children>
+                        <Button mnemonicParsing="false" onAction="#handleButtonRunOneStep" text="Run one step"/>
+                        <Button fx:id="switchToPrograms" mnemonicParsing="false"
+                                onAction="#handleButtonSwitchToPrograms" text="back"/>
+                    </children>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</VBox>

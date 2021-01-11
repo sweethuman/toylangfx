@@ -1,0 +1,8294 @@
+
+ID: 1
+Execution Stack: 
+(Int x;(x=20;print(x)))
+
+Symbol Table: 
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Symbol Table: 
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Symbol Table: 
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Symbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Symbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Symbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Symbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Symbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MemoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Int x;(x=20;print(x)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+x --> 20
+
+Output: 
+20
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Int x;(x=20;print(x)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+
+Sbol Table: 
+x --> 20
+
+Output: 
+20
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(Int a;(a=2+3*5;(Int b;(b=a+1;(print(a);print(b))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+Int a
+(a=2+3*5;(Int b;(b=a+1;(print(a);print(b)))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+Int a
+(a=2+3*5;(Int b;(b=a+1;(print(a);print(b)))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(a=2+3*5;(Int b;(b=a+1;(print(a);print(b)))))
+
+Sbol Table: 
+a --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(a=2+3*5;(Int b;(b=a+1;(print(a);print(b)))))
+
+Sbol Table: 
+a --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+a=2+3*5
+(Int b;(b=a+1;(print(a);print(b))))
+
+Sbol Table: 
+a --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+a=2+3*5
+(Int b;(b=a+1;(print(a);print(b))))
+
+Sbol Table: 
+a --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(Int b;(b=a+1;(print(a);print(b))))
+
+Sbol Table: 
+a --> 17
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(Int b;(b=a+1;(print(a);print(b))))
+
+Sbol Table: 
+a --> 17
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+Int b
+(b=a+1;(print(a);print(b)))
+
+Sbol Table: 
+a --> 17
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+Int b
+(b=a+1;(print(a);print(b)))
+
+Sbol Table: 
+a --> 17
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(b=a+1;(print(a);print(b)))
+
+Sbol Table: 
+a --> 17
+b --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(b=a+1;(print(a);print(b)))
+
+Sbol Table: 
+a --> 17
+b --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+b=a+1
+(print(a);print(b))
+
+Sbol Table: 
+a --> 17
+b --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+b=a+1
+(print(a);print(b))
+
+Sbol Table: 
+a --> 17
+b --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(a);print(b))
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(a);print(b))
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(a)
+print(b)
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(a)
+print(b)
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(b)
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+17
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(b)
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+17
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+
+Sbol Table: 
+a --> 17
+b --> 18
+
+Output: 
+17
+18
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Reference to Int v;(new(v,20);(Reference to Reference to Int a;(new(v,5);(print(v);print(a))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Reference to Int v
+(new(v,20);(Reference to Reference to Int a;(new(v,5);(print(v);print(a)))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Reference to Int v
+(new(v,20);(Reference to Reference to Int a;(new(v,5);(print(v);print(a)))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(new(v,20);(Reference to Reference to Int a;(new(v,5);(print(v);print(a)))))
+
+Sbol Table: 
+v --> (0, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(new(v,20);(Reference to Reference to Int a;(new(v,5);(print(v);print(a)))))
+
+Sbol Table: 
+v --> (0, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+new(v,20)
+(Reference to Reference to Int a;(new(v,5);(print(v);print(a))))
+
+Sbol Table: 
+v --> (0, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+new(v,20)
+(Reference to Reference to Int a;(new(v,5);(print(v);print(a))))
+
+Sbol Table: 
+v --> (0, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Reference to Reference to Int a;(new(v,5);(print(v);print(a))))
+
+Sbol Table: 
+v --> (1, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 20
+
+
+ID: 1
+Execution Stack: 
+(Reference to Reference to Int a;(new(v,5);(print(v);print(a))))
+
+Sbol Table: 
+v --> (1, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 20
+
+
+ID: 1
+Execution Stack: 
+Reference to Reference to Int a
+(new(v,5);(print(v);print(a)))
+
+Sbol Table: 
+v --> (1, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 20
+
+
+ID: 1
+Execution Stack: 
+Reference to Reference to Int a
+(new(v,5);(print(v);print(a)))
+
+Sbol Table: 
+v --> (1, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 20
+
+
+ID: 1
+Execution Stack: 
+(new(v,5);(print(v);print(a)))
+
+Sbol Table: 
+a --> (0, Reference to Int)
+v --> (1, Int)
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 20
+
+
+ID: 1
+Execution Stack: 
+(String varf;(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(String varf;(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(String varf;(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(Int vard;(read(varf, vard);(print(varc<vard);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(String varf;(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(String varf;(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+String varf
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(varf=test.in;(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+varf=test.in
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(open(varf);(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+open(varf)
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Int varc;(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int varc
+(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int varc
+(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 0
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(read(varf, varc);(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 0
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+read(varf, varc)
+(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 0
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+read(varf, varc)
+(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 0
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(varc);(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf))))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(varc)
+(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(varc)
+(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);(read(varf, varc);(print(varc);(print(\n);close(varf)))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+(read(varf, varc);(print(varc);(print(\n);close(varf))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+(read(varf, varc);(print(varc);(print(\n);close(varf))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(read(varf, varc);(print(varc);(print(\n);close(varf))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(read(varf, varc);(print(varc);(print(\n);close(varf))))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+read(varf, varc)
+(print(varc);(print(\n);close(varf)))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+read(varf, varc)
+(print(varc);(print(\n);close(varf)))
+
+Sbol Table: 
+varf --> test.in
+varc --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(varc);(print(\n);close(varf)))
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(varc);(print(\n);close(varf)))
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(varc)
+(print(\n);close(varf))
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(varc)
+(print(\n);close(varf))
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);close(varf))
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);close(varf))
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+close(varf)
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+close(varf)
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+close(varf)
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+close(varf)
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+\n
+
+FileTable:
+test.in
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+varf --> test.in
+varc --> 20
+
+Output: 
+10
+\n
+20
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Int v;(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+(Int x;(x=20;print(x)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+x --> 20
+
+Output: 
+20
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Int x;(x=20;print(x)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int x
+(x=20;print(x))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(x=20;print(x))
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+x=20
+print(x)
+
+Sbol Table: 
+x --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(x)
+
+Sbol Table: 
+x --> 20
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+x --> 20
+
+Output: 
+20
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Int v;(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+(Int v;(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 1
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(Int v;(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+Int v
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+Int v
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=4
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=4
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 3
+Execution Stack: 
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+0
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(Int v;(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int v
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+Int v
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(v=4;(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v)))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=4
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=4
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(while (v>0) do ((print(v);(print(\n);v=v-1)));print(v))
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 4
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 3
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 2
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(v);(print(\n);v=v-1))
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+(print(\n);v=v-1)
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(\n)
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+v=v-1
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 1
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+while (v>0) do ((print(v);(print(\n);v=v-1)))
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+print(v)
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 1
+Execution Stack: 
+
+Sbol Table: 
+v --> 0
+
+Output: 
+4
+\n
+3
+\n
+2
+\n
+1
+\n
+0
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Int v;(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Int v
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(Reference to Int a;(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+Reference to Int a
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(v=10;(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+v=10
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 0
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(new(a,22);(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+new(a,22)
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (0, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+
+
+ID: 2
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))));(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+fork((writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a)))))))
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+(writeHeap(a,30);(v=32;(print(v);(print(\n);print(readHeap(a))))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 3
+Execution Stack: 
+writeHeap(a,30)
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+
+FileTable:
+
+MoryHeap:
+1 : 22
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(v=32;(print(v);(print(\n);print(readHeap(a)))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+v=32
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(v);(print(\n);print(readHeap(a))))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 2
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 10
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(v)
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+(print(\n);print(readHeap(a)))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(\n)
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+print(readHeap(a))
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
+
+ID: 3
+Execution Stack: 
+
+Sbol Table: 
+a --> (1, Int)
+v --> 32
+
+Output: 
+10
+\n
+30
+32
+\n
+30
+
+FileTable:
+
+MoryHeap:
+1 : 30
+
